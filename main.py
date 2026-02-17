@@ -9,3 +9,5 @@ joueur2.afficher_info()
 
 joueur1.attaquer(joueur2)
 joueur2.afficher_info()
+joueur2.attaquer(joueur1)
+joueur1.afficher_info()
